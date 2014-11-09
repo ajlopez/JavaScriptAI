@@ -1,0 +1,16 @@
+{
+  "name": "static",
+  "private": true,
+  "version": "0.0.0",
+  "description": "Static server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-static": "~0.7.6"
+  }
+}
