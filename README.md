@@ -14,3 +14,20 @@ The samples are for Node.js and for browser. The covered topics (Work in Progres
 - Machine and Deep Learning
 - Decision Trees
 
+## Projects
+
+- [ConvNetJs Deep Learning](http://cs.stanford.edu/people/karpathy/convnetjs/)
+- [SimpleNeuron Neural Networks](https://github.com/ajlopez/SimpleNeuron)
+- [SimpleGA Genetic Algorithms](https://github.com/ajlopez/SimpleGA)
+- [SimpleDT Decision Tress](https://github.com/ajlopez/SimpleDT)
+- [SimpleGammon Evaluation Backgammon](https://github.com/ajlopez/SimpleGammon)
+
+## Resources
+
+- [Machine Learning in Action](http://www.manning.com/pharrington/) with source code
+
+## Datasets
+
+- [Weka Collections of Datasets](http://www.cs.waikato.ac.nz/ml/weka/datasets.html)
+- [Machine Learning Databases](http://archive.ics.uci.edu/ml/machine-learning-databases/)
+
