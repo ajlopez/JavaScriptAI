@@ -14,6 +14,11 @@ The samples are for Node.js and for browser. The covered topics (Work in Progres
 - Machine and Deep Learning
 - Decision Trees
 
+## Presentation
+
+- [Presentation Sources](https://github.com/ajlopez/Talks/JavaScriptAI)
+- [Presentation Online](http://ajlopez.github.io/Talks/JavaScriptAI)
+
 ## Projects
 
 - [ConvNetJs Deep Learning](http://cs.stanford.edu/people/karpathy/convnetjs/)
@@ -24,7 +29,10 @@ The samples are for Node.js and for browser. The covered topics (Work in Progres
 
 ## Resources
 
+- [Computer Backgammon](http://www.bkgm.com/articles/Berliner/ComputerBackgammon/)
+- [Backgammon Computer Program Beats World Champion](http://www.bkgm.com/articles/Berliner/BackgammonProgramBeatsWorldChamp/)
 - [Machine Learning in Action](http://www.manning.com/pharrington/) with source code
+- [Binding Machine Learning and node.js](http://blog.bigml.com/2013/06/27/binding-machine-learning-and-node-js/)
 
 ## Datasets
 
