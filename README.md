@@ -33,6 +33,10 @@ The samples are for Node.js and for browser. The covered topics (Work in Progres
 - [Backgammon Computer Program Beats World Champion](http://www.bkgm.com/articles/Berliner/BackgammonProgramBeatsWorldChamp/)
 - [Machine Learning in Action](http://www.manning.com/pharrington/) with source code
 - [Binding Machine Learning and node.js](http://blog.bigml.com/2013/06/27/binding-machine-learning-and-node-js/)
+- [What is deep learning, and why should you care?](http://radar.oreilly.com/2014/07/what-is-deep-learning-and-why-should-you-care.html)
+- [ImageNet Classification with Deep Convolutional Neural Networks](http://www.cs.toronto.edu/~fritz/absps/imagenet.pdf)
+- [Dropout: A simple and effective way to improve neural networks](http://videolectures.net/nips2012_hinton_networks/)
+- [Rectifier (neural networks)](http://en.wikipedia.org/wiki/Rectifier_(neural_networks))
 
 ## Datasets
 
