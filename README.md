@@ -29,6 +29,7 @@ The samples are for Node.js and for browser. The covered topics (Work in Progres
 
 ## Resources
 
+- [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/)
 - [Computer Backgammon](http://www.bkgm.com/articles/Berliner/ComputerBackgammon/)
 - [Backgammon Computer Program Beats World Champion](http://www.bkgm.com/articles/Berliner/BackgammonProgramBeatsWorldChamp/)
 - [Machine Learning in Action](http://www.manning.com/pharrington/) with source code
