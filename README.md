@@ -1,6 +1,6 @@
 # JavaScript and Artificial Intelligence
 
-Samples and demos of JavaScript Artificial Intelligence.
+SAmples and demos of JavaScript Artificial Intelligence.
 
 AI is a broad term, but it is the better I known.
 
